@@ -1,0 +1,53 @@
+body{
+  background-color:  #cce6ff;
+  text-align: center;
+  margin-top: 150px;
+}
+
+
+.all{
+  text-align: center;
+  width: 380px;
+  height: 600px;
+  background-color: white;
+  border-radius: 20px;
+  margin: auto;
+  filter: drop-shadow(5px 5px 20px #80bfff);
+}
+
+img{
+  padding: 5%;
+  max-width: 340px;
+  height:auto;
+  border-radius: 35px;
+}
+
+.top-text{
+  font-weight: bolder;
+  padding: 1%;
+  font-family: 'Outfit', sans-serif;
+  font-size: 25px;
+  max-width: 80%;
+  padding-left: 10%;
+  font-weight: 800;
+  color: #003366;
+}
+
+p{
+  max-width: 75%;
+  padding-left: 13%;
+  font-family: 'Outfit' ,sans-serif;
+  font-size: 17px;
+  color: #737373;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 150px;
+
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
